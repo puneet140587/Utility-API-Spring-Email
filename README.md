@@ -5,12 +5,12 @@ Spring Framework provides you with an  API to send an email. It includes some in
 
 The Spring Mail  also has many classes or interfaces. Basically, below is the list of main classes and interfaces:
 
-org.springframework.mail.MailSender
-org.springframework.mail.SimpleMailMessage
-org.springframework.mail.MailMessage
-org.springframework.mail.javamail.JavaMailSender
-org.springframework.mail.javamail.JavaMailSenderImpl
-org.springframework.mail.javamail.MimeMessagePreparator
-org.springframework.mail.javamail.MimeMessageHelper
-org.springframework.mail.javamail.MimeMailMessage
+org.springframework.mail.MailSender,
+org.springframework.mail.SimpleMailMessage,
+org.springframework.mail.MailMessage,
+org.springframework.mail.javamail.JavaMailSender,
+org.springframework.mail.javamail.JavaMailSenderImpl,
+org.springframework.mail.javamail.MimeMessagePreparator,
+org.springframework.mail.javamail.MimeMessageHelper,
+org.springframework.mail.javamail.MimeMailMessage,
 
